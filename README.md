@@ -1,4 +1,4 @@
-#README
+# README
 
 This repository (although currently private) in planned to contain an updated, interactive version of the UBC Botanical Garden's Plant Records Manual.
 
