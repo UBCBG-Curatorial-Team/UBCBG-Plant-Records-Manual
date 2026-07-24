@@ -5,3 +5,5 @@
 layout: home
 ---
 Test: Does this make text appear on the homepage?
+
+<img src="figures/Salmonberry.jpg" alt="a photo of Triantha" width="600"/>
