@@ -3,5 +3,5 @@ layout: page
 title: Library
 permalink: /library/
 parent: Management
-nav_order: 9
+nav_order: 7
 ---
