@@ -4,5 +4,3 @@ title: Appendices
 permalink: /appendices/
 nav_order: 10
 ---
-Appendix
-Appendix
