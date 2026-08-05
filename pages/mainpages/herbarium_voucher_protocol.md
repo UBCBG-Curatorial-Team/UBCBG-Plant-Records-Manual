@@ -14,4 +14,6 @@ For our purposes, herbarium vouchers include:
 
 Both types of specimens will be deposited to the UBC Herbarium. Specimens collected for teaching purpose are excluded. 
 
-Below is a flowchart that details the process of herbarium voucher collection, documentation, and subsequent deposition.
+Below is a flowchart that details the process of herbarium voucher collection, documentation, and subsequent deposition:
+
+<img src="../figures/Herbarium_Voucher_Protocol_Flowchart.png" alt="flowchart detailing herbarium voucher protocol" width="600"/>
