@@ -26,6 +26,7 @@ url: "https://UBCBG-Curatorial-Team.github.io/UBCBG-Plant-Records-Manual/" # the
 github_username:  UBCBG-Curatorial-Team
 
 favicon_ico: "/assets/ubcbg_logo.ico"
+logo: "/assets/ubcbg_logo.png"
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs
