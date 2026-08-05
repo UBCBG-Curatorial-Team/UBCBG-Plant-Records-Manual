@@ -4,4 +4,3 @@
 
 layout: home
 ---
-Test: Does this make text appear on the homepage?
