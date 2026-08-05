@@ -42,6 +42,12 @@ aux_links:
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
+callouts_level: loud
+callouts:
+  warning:
+    title: Note
+    color: green
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
