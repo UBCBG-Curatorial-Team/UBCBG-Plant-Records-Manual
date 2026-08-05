@@ -26,7 +26,7 @@ url: "https://UBCBG-Curatorial-Team.github.io/UBCBG-Plant-Records-Manual/" # the
 github_username:  UBCBG-Curatorial-Team
 
 # Build settings
-remote_theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 
