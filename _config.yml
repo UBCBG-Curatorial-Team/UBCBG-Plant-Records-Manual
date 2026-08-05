@@ -25,9 +25,6 @@ baseurl: "/UBCBG-Plant-Records-Manual/"
 url: "https://UBCBG-Curatorial-Team.github.io/UBCBG-Plant-Records-Manual/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  UBCBG-Curatorial-Team
 
-
-favicon_ico: "assets/ubcbg_logo.ico"
-
 # Build settings
 remote_theme: just-the-docs
 plugins:
