@@ -32,6 +32,14 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 
+# Aux links for the upper right navigation
+aux_links:
+  "UBC Botanical Garden Website":
+    - "//botanicalgarden.ubc.ca"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
