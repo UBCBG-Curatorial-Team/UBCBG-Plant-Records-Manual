@@ -12,7 +12,17 @@ For our purposes, herbarium vouchers include:
 >-- specimens collected in the field for the UBC Botanical Garden plant collection (e.g. collecting trips, expeditions)\
 >-- specimens collected from the Garden accession items (cultivated material)
 
-Both types of specimens will be deposited to the UBC Herbarium. Specimens collected for teaching purpose are excluded. 
+Both types of specimens will be deposited to the UBC Herbarium. Specimens collected for teaching purpose are excluded.
+
+---
+
+Specimens can be collected by curators, accessions technician, curatorial coordinator, research manager, other staff, and students with permission (‘collectors’). 
+
+The collectors are responsible for: 
+>-- recording the collection information, plant identification and other information (steps 1-3 in the flowchart)\
+>-- deposit specimens and notify accession technician to update accession determination (steps 4.1-4.2 in the flowchart)
+
+---
 
 Below is a flowchart that details the process of herbarium voucher collection, documentation, and subsequent deposition:
 
