@@ -36,6 +36,8 @@ plugins:
 aux_links:
   "UBC Botanical Garden Website":
     - "//botanicalgarden.ubc.ca"
+  "UBC Website":
+    - "//www.ubc.ca"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
