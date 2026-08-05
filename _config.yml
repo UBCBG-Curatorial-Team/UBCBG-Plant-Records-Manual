@@ -29,7 +29,7 @@ github_username:  UBCBG-Curatorial-Team
 favicon_ico: "assets/ubcbg_logo.ico"
 
 # Build settings
-theme: just-the-docs
+remote_theme: just-the-docs
 plugins:
   - jekyll-feed
 
