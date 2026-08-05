@@ -16,4 +16,4 @@ Both types of specimens will be deposited to the UBC Herbarium. Specimens collec
 
 Below is a flowchart that details the process of herbarium voucher collection, documentation, and subsequent deposition:
 
-<img src="../figures/Herbarium_Voucher_Protocol_Flowchart.png" alt="herbarium voucher flowchart" width="600"/>
+<img src="../figures/Herbarium_Voucher_Protocol_Flowchart.png" alt="flowchart detailing herbarium voucher protocol" width="600"/>
