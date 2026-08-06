@@ -44,7 +44,7 @@ aux_links_new_tab: true
 
 callouts_level: loud
 callouts:
-  warning:
+  note:
     title: Note
     color: green
 
