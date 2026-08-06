@@ -48,7 +48,7 @@ The reference guide is an introduction to the essentials of the system and assum
 <br>
 The toolbar ribbon at the top of the screen in IrisBG is important for searching and navigation. The binoculars icon is the  search button that searches based on filled search fields in the open page. The binoculars with `+` icon is the advanced search criteria button. This opens a search menu that can be used to specify very detailed search criteria. Configure the desired criteria and press the search button to perform the search.
 
-{: .warning }
+{: .note }
 It is important to press `Prepare for search or new entry` *(the blank window icon)* before performing a search to ensure that no existing records are accidentally changed.
 
 
