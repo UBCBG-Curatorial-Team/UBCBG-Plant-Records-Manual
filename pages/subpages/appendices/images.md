@@ -44,9 +44,19 @@ Image name format: `AccYear-AccNo_ItemNo_imgNo` (e.g. 2011-0116_001_001)
 
 Images can be linked to an accession, accession item, or a taxon without an accession. When images are linked to an accession/item, such images are automatically link to the accession’s taxon. 
 
-**Image upload size**<br>
+**Image Upload Size**<br>
 <img align="right" src="../figures/options_highlighted.png" alt="options highlighted in file tab" width="150"> To limit unneccessary usage of database storage space, it’s recommended to upload image with resolution `MegaPix_1`. Go to `File - Options` to set the image resolution. The database stores a resized image ~200KB with MegaPix_1 resolution, which is usually sufficient for web browsing. 
 <center><img src="../figures/options_page.png" alt="options window irisbg" width="300"></center>
 
 {: .note }
 Once the resolution is set, you must restart IrisBG for the new setting to take effect.
+
+**Image Ranking**<br>
+Image rank is used to control usage and sort order for images. **The recommended rankings are 2-9** (the same rank can apply to multiple images). Rank 1 images are published on the mobile app data, which may increase the mobile app data package size, and therefore not recommended. A more detailed explanation of ranks follows:
+>-- 1 = Default/preferred image: this is the cover/first image shown on the Garden Explorer. <br>
+>-- 2-9 = Alternative images (recommended, available on Garden Explorer) <br>
+>-- 10+ = Not to be published on Garden Explorer. *e.g. images of accession labels or other photos for internal use only.*
+
+**Manually Uploading Images**<br>
+*See [Data Import](/UBCBG-Plant-Records-Manual/data-import/#:~:text=Bulk%20Image%20Upload) for information on bulk image upload.*
+
