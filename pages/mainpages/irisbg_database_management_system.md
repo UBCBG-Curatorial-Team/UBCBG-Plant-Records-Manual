@@ -55,10 +55,4 @@ It is important to press `Prepare for search or new entry` *(the blank window ic
 The functions of the other buttons are listed when the cursor hovers over them.
 
 
-<img align="left" src="../figures/top_bar.png" alt="the top toolbar in IrisBG" width="700"/> 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img src="../figures/top_bar.png" alt="the top toolbar in IrisBG" width="700"/> 
