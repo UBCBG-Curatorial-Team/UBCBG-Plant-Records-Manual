@@ -7,14 +7,39 @@ parent: Appendices
 ---
 # Images
 
-Images uploaded in the IrisBG are stored in the database. The default setting of Image license is `CC BY-NC-SA` (NonCommercial-ShareAlike). To change the default, go to Management -> Collections in IrisBG.
+<img align="right" src="../figures/manage_collections.png" alt="management > collections IrisBG" width="200"> Images uploaded in the IrisBG are stored in the database. The default setting of Image license is `CC BY-NC-SA` (NonCommercial-ShareAlike). To change the default, go to Management -> Collections in IrisBG.
 
 Original-sized images are stored in team shared drive: `BGCHHort\IrisBG\Digital_Assets\Images\Plant_accession_img\` by folders of the accession year. The storage of the original-sized images are independent of the database images. If any changes apply to the original image, the database image needs to be manually updated, and vice versa. 
 
 When documenting a plant accession, it’s recommended to take photos of the habit, trunk/branch/bark, leaf arrangements, both sides of leaves, inflorescence, flowers, fruits/cones, other key identifying features, habitat or location of the plant whenever possible. 
 
-### Image processing, metadata, file naming 
+### Image Processing and Metadata
 
 Before uploading the images to the database, use image editor software (e.g. Adobe Photoshop) to edit image (such as adjusting colour and brightness, and cropping) if necessary. Image metadata can be updated by Adobe Lightroom, Adobe Bridge and other image softwares.
 
-The copyright (photographer) will be automatically imported from the image metadata when uploading images into IrisBG. If changes should be made, they can be done so in IrisBG under `Provider` while viewing the image information. Fill in “UBC Botanical Garden” if the photographer is an unknown staff.
+<img align="right" src="../figures/image_info.png" alt="IrisBG image data" width="200"> The copyright (photographer) will be automatically imported from the image metadata when uploading images into IrisBG. If changes should be made, they can be done so in IrisBG under `Provider` while viewing the image information. Fill in “UBC Botanical Garden” if the photographer is an unknown staff.
+
+### Add/Update Keywords (tags) (optional) 
+
+Adding keywords in the image metadata helps image sorting and searching. However, IrisBG at time of writing (IrisBG4 version 4.1.0.19071 - 2019-07-11) does not automatically import the keywords/tags embedded in the images. The keywords need to be added in the database (manually or by data import). 
+
+Some examples of keywords/tags: 
+> Accession Label; Herbarium Scan; Pollinator;  
+> Bud; Fruit; Flower; Habit; Leaf; Leaf_underside; Trunk; Bark; Branch; Root; Bulb;  
+> Pollen; Cone; Seed; Cladode; Catkin; Sporangia;  
+> Seed cone; Pollen cone; male_flower; female_flower;  
+> white_flowers; pink_flowers; blue_flowers; brown_flowers; green_flowers; orange_flowers; purple_flowers; red_flowers; yellow_flowers
+
+### File Naming System 
+Folder name: [year of accession]
+
+Image name format: `AccYear-AccNo_ItemNo_imgNo` (e.g. 2011-0116_001_001)
+
+{: .note }
+>`AccYear` and `AccNo` are each 4 digits, `ItemNo` and `imgNo` are each 3-digits; `imgNo` is a sequence number that is incremented for each photo of the item.
+>
+>If item number is unknown or photos of received material (e.g. seeds, bulbs, cuttings): `ItemNo` = 000; e.g. 2011-0116_000_001 
+
+## Image Upload and Ranking
+
+Images can be linked to an accession, accession item, or a taxon without an accession. When images are linked to an accession/item, such images are automatically link to the accession’s taxon. 
