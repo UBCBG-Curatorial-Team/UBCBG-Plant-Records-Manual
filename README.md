@@ -31,7 +31,11 @@ A final option (thank you Kevin for informing me about this) is the UBC GitHub e
 ### Windows users:
 
 > **First-time setup:**<br>
-> *Detailed instructions can be found on the [Jekyll website](https://jekyllrb.com/docs/installation/windows/)*<br>
->1) Install the newest version of [RubyInstaller](https://rubyinstaller.org) for Windows<br>
->1) Before selecting `finish` in the install wizard, ensure that `run ridk install` is selected<br>
->1) In the command prompt window opened by RubyInstaller2 for Windows, select `MSYS2 and MINGW development toolchain` by entering the corresponding number
+> Detailed instructions can be found on the [Jekyll website](https://jekyllrb.com/docs/installation/windows/) for setup of Jekyll on Windows<br>
+>   Note: Do not install a version of Ruby older than 2.6 or newer than 4.0!!! This will (currently) cause errors
+
+> **Running the site:**<br>
+>1) Find windows_run.command in UBCBG-Plant-Records-Manual/run<br>
+>1) In a text editor, replace `[path to UBCBG-Plant-Records-Manual directory]` (in the first line) to the location of the site directory on **your machine**<br>
+>   -- to edit in a text editor, right click the file and select *Edit in Notepad*
+>1) Run windows_run.command -- *(can be run from any directory on your machine. I like to keep mine on my desktop)*<br>
