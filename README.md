@@ -22,7 +22,8 @@ A final option (thank you Kevin for informing me about this) is the UBC GitHub e
 > **Running the site:**<br>
 >1) Find mac_run.command in UBCBG-Plant-Records-Manual/run<br>
 >1) In a text editor, replace `[path to UBCBG-Plant-Records-Manual directory]` (in the first line) to the location of the site directory on **your machine**<br>
->1) Run mac_run.command -- *(can be run from any directory on your machine. I like to keep mine on my desktop)*<br>
+>   -- to edit in a text editor, right click the file and select *Open with text edit*
+>1) Run mac_run.command by double-clicking -- *(can be run from any directory on your machine. I like to keep mine on my desktop)*<br>
 >   -- If mac_run.command is not an executable file, run `chmod 755 [path]/mac_run.command`, replacing `[path]` with the path to the directory that mac_run.command is located in<br>
 >1) To halt the site, close the running terminal window or press `control + c` ***(NOT `cmd + c`)*** while on the running terminal window.
 
@@ -31,11 +32,16 @@ A final option (thank you Kevin for informing me about this) is the UBC GitHub e
 ### Windows users:
 
 > **First-time setup:**<br>
-> Detailed instructions can be found on the [Jekyll website](https://jekyllrb.com/docs/installation/windows/) for setup of Jekyll on Windows<br>
->   Note: Do not install a version of Ruby older than 2.6 or newer than 4.0!!! This will (currently) cause errors
+>1) Detailed instructions can be found on the [Jekyll website](https://jekyllrb.com/docs/installation/windows/) for setup of Jekyll on Windows<br>
+>   **Note: Do not install a version of Ruby older than 2.6 or newer than 4.0!!! This will (currently) cause errors**
+>1) In a new command prompt window, run `cd [path to UBCBG-Plant-Records-Manual directory]`, replacing the section in [] with the relevant path.
+>1) Run `bundle install`
 
 > **Running the site:**<br>
->1) Find windows_run.command in UBCBG-Plant-Records-Manual/run<br>
+>1) Find windows_run.bat in UBCBG-Plant-Records-Manual/run<br>
 >1) In a text editor, replace `[path to UBCBG-Plant-Records-Manual directory]` (in the first line) to the location of the site directory on **your machine**<br>
 >   -- to edit in a text editor, right click the file and select *Edit in Notepad*
->1) Run windows_run.command -- *(can be run from any directory on your machine. I like to keep mine on my desktop)*<br>
+>1) Run windows_run.bat by double clicking -- *(can be run from any directory on your machine. I like to keep mine on my desktop)*<br>
+>1) To halt the site, close the running command prompt window or press `control + c` while on the running command prompt window then press y then ENTER.
+><br>
+> -- *Note: You may need to refresh the page after a few moments for the page to load properly
