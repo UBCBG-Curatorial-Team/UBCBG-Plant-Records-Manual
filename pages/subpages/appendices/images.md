@@ -70,6 +70,25 @@ Filling in information:
 >-- Assign a rank to each image. <br>
 >-- If the image is associated with a specific item, fill in the `item` field.
 >-- Make sure the photo `license` is accurate. If not, it can be manually changed by selecting the field.
->-- `Comments` is equivalent to tags, [keywords](/UBCBG-Plant-Records-Manual/images/#:~:text=Some%20examples%20of%20keywords%2ftags%3a) (separated by “, “), and other comments. 
+>-- `Comments` is equivalent to [keywords/tags](/UBCBG-Plant-Records-Manual/images/#:~:text=Some%20examples%20of%20keywords%2ftags%3a) (separated by “, “), and other comments. 
 
 **Other Images**<br>
+
+Images can also added to Task items, Tour items, and other IrisBG items when an Image field is present. Simply drag and drop the image to the corresponding items or click the <img src="figure/d" alt=" " width="10">`v` button and then right click on the image upload window to upload an image. 
+
+<img src="../figures/example_tour_image.png" alt="the irisbg tour image dialogue" width="800">
+
+> *The tours window with an example tour loaded, showing the image upload window as an example*
+
+### Guidelines for Image Deletion and Rank-Changing
+
+Curators can delete images from the database when images are: 
+>-- Incorrectly associated (wrong accession, etc.)<br>
+>-- Of bad quality and don’t do the justice of the plant<br>
+>-- Redundant, can be replaced by a better quality photo <br>
+>-- Other circumstances (likely in an effort to save storage space)
+
+{: .note }
+When an image is incorrectly associated (wrong accession number), delete both the image in IrisBG and also the original image (in the shared drive). Deleting original images are optional in other circumstances. 
+
+Change the image rank to 10 or above for the images that could be useful for ID or other curatorial purposes but not good enough to share with the public. See the [ranks](/UBCBG-Plant-Records-Manual/images/#:~:text=A%20more%20detailed%20explanation%20of%20ranks%20follows%3a) section for additional information.
