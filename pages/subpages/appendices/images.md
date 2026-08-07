@@ -40,6 +40,12 @@ Image name format: `AccYear-AccNo_ItemNo_imgNo` (e.g. 2011-0116_001_001)
 >
 >If item number is unknown or photos of received material (e.g. seeds, bulbs, cuttings): `ItemNo` = 000; e.g. 2011-0116_000_001 
 
-## Image Upload and Ranking
+### Image Upload and Ranking
 
 Images can be linked to an accession, accession item, or a taxon without an accession. When images are linked to an accession/item, such images are automatically link to the accession’s taxon. 
+
+**Image upload size**<br>
+To limit unneccessary usage of database storage space, it’s recommended to upload image with resolution `MegaPix_1`. Go to `File - Options` to set the image resolution. The database stores a resized image ~200KB with MegaPix_1 resolution, which is usually sufficient for web browsing. 
+
+{: .note }
+Once the resolution is set, you must restart IrisBG for the new setting to take effect.
