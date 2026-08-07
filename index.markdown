@@ -4,7 +4,7 @@ parent: hidden
 ---
 # UBC Botanical Garden Plant Records Management Manual 
 
-<img src="./figures/campbell.jpeg" alt="the campbell bldg" width="700">
+<center><img src="./figures/campbell.jpeg" alt="the campbell bldg" width="800"></center>
 
 Botanical garden’s plant records are as vital as the plants themselves and serve as a framework for the preservation of their data, the care of the collections, and access and use of the data. Accurate and complete information about Botanic gardens, as living museums, are not only ethically and legally obligated to maintain basic information about their collections according to accepted professional standards, but without proper documentation, these institutions have a limited story to tell and little reference value (American Association of Museums (AAM), 1984, referenced by Hohn, 2008).
 
