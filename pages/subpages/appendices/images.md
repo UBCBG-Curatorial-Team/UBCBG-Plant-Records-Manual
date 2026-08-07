@@ -60,3 +60,16 @@ Image rank is used to control usage and sort order for images. **The recommended
 **Manually Uploading Images**<br>
 *See [Data Import](/UBCBG-Plant-Records-Manual/data-import/#:~:text=Bulk%20Image%20Upload) for information on bulk image upload.*
 
+To upload new images, drag and drop one or more images to the thumbnail window or use the `+` button to select one or multiple images. 
+<center><img align="top" src="../figures/images_tab.png" alt="the irisbg images tab for an accession" width="300"><img src="../figures/image_info.png" alt="the image info section in irisbg" width="300"></center>
+
+> *The images tab of an accession (left) and the information associated with an image (right)*
+
+Filling in information:
+>-- If the image metadata contains information on `Date`,  `Provider`, and `Properties`, these 3 fields are automatically uploaded with the images. If not, manually fill in Date and Provider if known. <br>
+>-- Assign a rank to each image. <br>
+>-- If the image is associated with a specific item, fill in the `item` field.
+>-- Make sure the photo `license` is accurate. If not, it can be manually changed by selecting the field.
+>-- `Comments` is equivalent to tags, [keywords](/UBCBG-Plant-Records-Manual/images/#:~:text=Some%20examples%20of%20keywords%2ftags%3a) (separated by “, “), and other comments. 
+
+**Other Images**<br>
