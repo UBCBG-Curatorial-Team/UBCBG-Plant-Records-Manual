@@ -20,7 +20,7 @@ There are 5 tabs associated with each taxon you search in the Taxa section of Ir
 The `Names` tab can be used to adjust nomenclature and taxonomic information, as well as the name status of a taxon. The `Details` tab is used for other information about a taxon, such as its habitat and distribution. Taxa can be given a Restriction to limit Usage and/or Publishing. 
 
 {: .warning }
-Taxon names that cannot be verified by a reference listed in the IrisBG [Library](/UBCBG-Plant-Records-Manual/library/) should be marked as provisional. Such taxa will not be included in data exports to external recipients.
+Taxon names that cannot be verified by a reference listed in the IrisBG [Library](/UBCBG-Plant-Records-Manual/library/) should be marked as provisional. Such taxa will not be included in data exports to external recipients. Additional taxonomic resources can be found [here](/UBCBG-Plant-Records-Manual/taxonomic-resources).
 
 The list for Themes (found at the bottom of `Details`) can be used to enter facts about a taxon, e.g. Medicine plant, Edible fruit. Theme types must be defined in the [Code lists](/UBCBG-Plant-Records-Manual/code-lists/) screen.
 
