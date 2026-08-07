@@ -45,7 +45,8 @@ Image name format: `AccYear-AccNo_ItemNo_imgNo` (e.g. 2011-0116_001_001)
 Images can be linked to an accession, accession item, or a taxon without an accession. When images are linked to an accession/item, such images are automatically link to the accession’s taxon. 
 
 **Image upload size**<br>
-To limit unneccessary usage of database storage space, it’s recommended to upload image with resolution `MegaPix_1`. Go to `File - Options` to set the image resolution. The database stores a resized image ~200KB with MegaPix_1 resolution, which is usually sufficient for web browsing. 
+<img align="right" src="../figures/options_highlighted.png" alt="options highlighted in file tab" width="150"> To limit unneccessary usage of database storage space, it’s recommended to upload image with resolution `MegaPix_1`. Go to `File - Options` to set the image resolution. The database stores a resized image ~200KB with MegaPix_1 resolution, which is usually sufficient for web browsing. 
+<center><img src="../figures/options_page.png" alt="options window irisbg" width="300"></center>
 
 {: .note }
 Once the resolution is set, you must restart IrisBG for the new setting to take effect.
