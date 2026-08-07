@@ -41,3 +41,5 @@ Image name format: `AccYear-AccNo_ItemNo_imgNo` (e.g. 2011-0116_001_001)
 >If item number is unknown or photos of received material (e.g. seeds, bulbs, cuttings): `ItemNo` = 000; e.g. 2011-0116_000_001 
 
 ## Image Upload and Ranking
+
+Images can be linked to an accession, accession item, or a taxon without an accession. When images are linked to an accession/item, such images are automatically link to the accession’s taxon. 
