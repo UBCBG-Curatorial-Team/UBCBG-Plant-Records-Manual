@@ -1,6 +1,23 @@
 @echo off
-echo initializing server in other window
-echo please wait while initialization occurs
+echo  "   _  _  __   ___                                       "
+echo  "  | || ||[]| || ||                                      "
+echo  "  | || ||[] |||                                         "
+echo  "  |____||___|||_||                                      "
+echo  "   __    ___  ____   _          ____  ___    _          "
+echo  "  |[]|  || ||  ||   | |  ||\ ||  ||  || ||  | |  ||     "
+echo  "  |[] | || ||  ||  ||_|| ||\\||  ||  ||    ||_|| ||     "
+echo  "  |___| ||_||  ||  || || || \|| _||_ ||_|| || || ||__   "
+echo  "   ___    _    ___  ____   ___                          "
+echo  "  || ||  | |  || || || || ||   ||\ ||                   "
+echo  "  || __ ||_|| ||||  || || ||== ||\\||                   "
+echo  "  ||_|| || || || \\ ||_|| ||__ || \||                   "
+echo .
+echo .
+echo           Initializing server in other window
+echo .
+echo         Please wait while initialization occurs
+
+
 timeout 20
 start "" http://localhost:4000/UBCBG-Plant-Records-Manual/
 exit
