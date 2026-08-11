@@ -8,6 +8,8 @@ Another option (for mac users only? I need to work out how to do this for window
 
 A final option (thank you Kevin for informing me about this) is the UBC GitHub enterprise or something along those lines. This would also allow for a private-repo github pages but (in theory) at no additional cost to the garden.
 
+### Follow [this link](https://ubcbg-curatorial-team.github.io/UBCBG-Plant-Records-Manual/) to the live website.
+
 ## Running the site locally
 ### Mac users:
 > **Requirements:**<br>
