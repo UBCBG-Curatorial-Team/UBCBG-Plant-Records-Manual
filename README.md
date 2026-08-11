@@ -8,7 +8,10 @@ Another option (for mac users only? I need to work out how to do this for window
 
 A final option (thank you Kevin for informing me about this) is the UBC GitHub enterprise or something along those lines. This would also allow for a private-repo github pages but (in theory) at no additional cost to the garden.
 
-### Follow [this link](https://ubcbg-curatorial-team.github.io/UBCBG-Plant-Records-Manual/) to the live website.
+## It is recommended that users access the site online
+To do so, follow [this link](https://ubcbg-curatorial-team.github.io/UBCBG-Plant-Records-Manual/) to the live website.
+
+If that is not a viable option (perhaps if, in the future, GitHub stops hosting sites like this), cloning this repository onto your machine and following the instructions below will allow you to host the site locally.
 
 ## Running the site locally
 ### Mac users:
