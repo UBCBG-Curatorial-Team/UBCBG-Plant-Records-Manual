@@ -41,7 +41,7 @@ If that is not a viable option (perhaps if, in the future, GitHub stops hosting 
 > **First-time setup:**<br>
 >1) Detailed instructions can be found on the [Jekyll website](https://jekyllrb.com/docs/installation/windows/) for setup of Jekyll on Windows<br>
 >   **Note: Do not install a version of Ruby older than 2.6 or newer than 4.0!!! This will (currently) cause errors**
->1) In a new command prompt window, run `cd [path to UBCBG-Plant-Records-Manual directory]`, replacing the text enclosed in [] with the relevant path.
+>1) In a new command prompt window, run `cd [path to UBCBG-Plant-Records-Manual directory]`, replacing the text enclosed in [] (and the []) with the relevant path.
 >1) Run `bundle install`<br>
 >1) Find windows_run.bat in the directory `UBCBG-Plant-Records-Manual/run`<br>
 >1) In a text editor, replace `[path to UBCBG-Plant-Records-Manual directory]` (in the first line) to the location of the site directory on **your machine**<br>
@@ -52,3 +52,6 @@ If that is not a viable option (perhaps if, in the future, GitHub stops hosting 
 >1) To halt the site, close the running command prompt window or press `control + c` while on the running command prompt window then press y then ENTER.
 ><br>
 > -- *Note: You may need to refresh the page after a few moments for the page to load properly
+
+# Things to fix about launchers
+It may be possible to run them completely offline. I would need to make the initial setup more complicated tho. Perhaps if  I can script a majority of the setup that could help? Basically, I would make the bundle install part of the initial setup but not the launch and hopefull that would work?
