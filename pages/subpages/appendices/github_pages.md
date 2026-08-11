@@ -14,6 +14,9 @@ The reason this platform is so easy to work with is [Jekyll](https://jekyllrb.co
 <center><img src="../figures/vscode.png" alt="Visual Studio Code Window" width="500"></center>
 I personally like to use [Visual Studio Code](https://code.visualstudio.com/) to open a clone of the directory on my own computer for ease of editing. Through [GitHub Desktop](https://desktop.github.com/download/) it is possible to pull and push a repo to and from your computer, and create pull requests. Visual Studio Code also has similar functionality (although I find its implementation harder to use) but it has a very useful merge manager that can be opened directly through GitHub Desktop *(very convenient, I know)*.
 
+{: .note }
+The live site is deployed from the `main` branch of the repository. This means that pull requests from other branches must be merged, and then `main` must be redeployed. Redeployment is typically automatic but required troubleshooting at times.
+
 ### Creating a new page
 
 <img align="right" src="../figures/page_directories.png" alt="the directory structure of pages" width="200">
