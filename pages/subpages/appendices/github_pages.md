@@ -40,7 +40,8 @@ In the case of the IrisBG section of the manual, there are sub subpages. These a
 
 **The frontmatter** is what is found between the first two sets of `---` with the page properties being listed by the format `property: option`. In the example, the layout is `page` (`layout: page`) which is what we nearly (if not entirely) always use. Other required information is `Title`, and `permalink` (the address), both of which should make sense for anyone else who views the source code.
 
-**To make a page a subpage**, assign a `parentage` that matches the `Title` of an existing page. Any page can be a parent page, but it must be visible in navigation for its subpages to be visible in navigation.
+**To make a page a subpage**, assign a `parentage` that matches the `Title` of an existing page. Any page can be a parent page, but it must be visible in navigation for its subpages to be visible in navigation. 
+>*if you would like to hide a page from the navigation bar (it will still be searchable), 
 
 **To properly order pages** in the navigation bar, the `nav_order` must be specified in the frontmatter. This will order the pages numerically by `nav_order`, and pages with the same `nav_order` will be grouped together in a random order within their grouping.
 
