@@ -44,8 +44,8 @@ The reference guide is an introduction to the essentials of the system and assum
 <br>
 <br>
 <br>
-<br>
-<br>
+Collections, Taxonomy, Reports, Events, and Definitions are the categories of primary concern to the Collections Technician, Curators, Horticulturists and Gardeners. Accessibility of Items under each category varies depending on the `Role Type` of your account (view-only or edit privilege). These authorization roles are managed by the system administrator (Biodiversity Informatics and Research Manager). Some of the tabs are not available for limited access level role types. 
+
 The toolbar ribbon at the top of the screen in IrisBG is important for searching and navigation. The binoculars icon is the  search button that searches based on filled search fields in the open page. The binoculars with `+` icon is the advanced search criteria button. This opens a search menu that can be used to specify very detailed search criteria. Configure the desired criteria and press the search button to perform the search.
 
 {: .note }
