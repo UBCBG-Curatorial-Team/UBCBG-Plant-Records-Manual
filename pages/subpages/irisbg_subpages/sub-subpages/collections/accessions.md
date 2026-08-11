@@ -62,3 +62,33 @@ Navigate to the `Collections` group located in the IrisBG Navigation bar. Click 
 >    1. `person`, 
 >    1. and `purpose` (garden area for which the material is planned for). <br>
 >1. Click **save**. 
+
+### Accession Record Tabs
+<img src="../figures/accessions_tabs.png" alt="the tabs found in the accessions module" width="500"> <br>
+The information stored for an accession is organized into 6 tabs:
+
+**Details**<br>
+The `Details` tab contains the basic working information for an `accession`. This includes the primary information used to identify, manage, and track the accession within the Garden's collections. 
+
+**Items**<br>
+The `Items` tab contains information about the individual plants or other material that make up an `accession`. An `accession` may consist of one or multiple `items`, and item-level information is used to track *individual* plants within the collection. 
+
+**Parentage**<br>
+The`Parentage` tab records information about the known parents of a plant, including Parent Taxon 1 and Parent Taxon 2. This information is particularly useful for documenting known crosses and tracking hybridization. It can also be used when accessioning seedlings for which at least one parent, such as the maternal parent, is known.<br>
+<img src="../figures/parentage_example.png" alt="example of accession with parentage information" width="800">
+> *An example of an accession containing parentage information.*<br>
+
+**Images**<br>
+The `Images` tab stores images associated with an accession. These may include photographs of plants or diagnostic traits, herbarium specimens or sheets, labels, and other images that provide supporting documentation for the accession.
+<img src="../figures/images_example.png" alt="example of accession with images" width="800">
+> *An example of an accession with associated images.*<br>
+
+**References** <br>
+The `References` tab records sources and supporting documentation associated with an accession. These may include collection permits, taxonomic information, library resources, web links, and external records or relationships.
+<img src="../figures/references_example.png" alt="example of accession with references" width="800">
+> *An example of an accession with references associated with it.*<br>
+
+**Events** <br>
+The `Events` tab records events and activities in which an accession has been used or involved. Events may include collection-related tasks, tours, educational activities, or other Garden activities associated with the accession.
+<img src="../figures/events_example.png" alt="example of accession with associated events" width="800">
+> *An example of an accession with events associated with it.*<br>
