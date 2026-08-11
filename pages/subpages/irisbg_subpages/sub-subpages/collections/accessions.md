@@ -13,7 +13,7 @@ An `accession`: is plant material (living or preserved) from a single source rec
 >-- An `accession` needs to have at least one `accession item` (plants, clumps, colonies or other management units) and can contain multiple `item types` and `items`. See [Accession Item Types](/UBCBG-Plant-Records-Manual/accession-item-types) for different item types defined. <br>
 >-- **Asexually** (clonally) propagated offspring of an `accession` should be considered an item within the **same** accession. ex. vegetative propagation, apomictic seeds. <br>
 >-- **Sexually** propagated offspring of an accession is a **new** accession. <br>
->-- `Accession number` consists of the Year (YYYY) the plant was accessioned and the 4-digit sequence number (AccNo) assigned sequentially by IrisBG (e.g. 2019-0003). The accession number should be unique and should never be reused. 
+>-- `Accession number` consists of the Year (YYYY) the plant was accessioned and the 4-digit sequence number (`AccNo`) assigned sequentially by IrisBG (e.g. `2019-0003`). The accession number should be unique and should never be reused. 
 
 The records team adds the `accession year` (when known), but not the other four digits when creating a new accession. If you do not enter an `accession number`, the system will automatically generate the next available number when you save the new record. 
 
@@ -92,3 +92,32 @@ The `References` tab records sources and supporting documentation associated wit
 The `Events` tab records events and activities in which an accession has been used or involved. Events may include collection-related tasks, tours, educational activities, or other Garden activities associated with the accession.
 <img src="../figures/events_example.png" alt="example of accession with associated events" width="800">
 > *An example of an accession with events associated with it.*<br>
+
+### Accessions Record Tables
+**Details tab**
+<img align="right" src="../figures/accessions_details_table.png" alt="the details tab of an accession" width="400">
+The Details tab contains the primary information used to identify and manage an accession. Accurate taxonomic information and a clear determination history are essential for maintaining reliable plant records. <br>
+<br>
+**Taxon Name and Determination** <br>
+Each `accession` must be linked to an **accepted name** from the IrisBG taxa list. Before creating or updating an `accession`, verify that the taxon name is current. If the taxon has not been verified recently---that is, if the **Checked date** is more than five years old---review and verify the taxon following the workflow described in [Taxa](/UBCBG-Plant-Records-Manual/taxa/). See [Taxonomy](/UBCBG-Plant-Records-Manual/taxonomy/) for instructions on adding taxon names and synonyms.
+
+If the required taxon is not found in the IrisBG taxa list, follow the [taxon addition workflow](/UBCBG-Plant-Records-Manual/taxa/) before completing the accession record.
+
+When an `accession` is received under a synonym or another name that is not the currently accepted name, record the name provided with the material in the `Received as` taxon field. This ensures that the original name is preserved in the `Determination` and `Determination History` of the `accession`, while the `accession` remains linked to the currently accepted taxon. The accepted name is used on plant labels, in Garden Explorer, and in reports. <br>
+<br>
+**Determination type** <br>
+When the identification of an accession is uncertain, record the appropriate qualifier in `Det. type`. Use **cf.** (confer) or **aff.** (affinis) or (?) as appropriate to indicate uncertainty in the determination. <br>
+<br>
+**Determination level** <br>
+The `Det. level` field indicates the basis or authority for the identification. Use the following options as appropriate: <br>
+>-- `Not Determined` --- name has not been determined by any authority <br>
+>-- `Provided by source` --- use when the taxonomic identification was supplied by the source and has not been independently determined by Garden staff or a taxonomic specialist. <br>
+>-- `Det by other Gardens (non-UBCBG)` --- use when staff at other Botanical Gardens has confirmed the determination but not a taxonomist. Unknown quality. <br>
+>-- `Det. by comparison` --- the determination was made through comparison with known or reference material, as specified by the curators or horticulturists. <br>
+>-- `Det. by a taxonomist` --- the determination was made by a taxonomist. <br>
+>-- `Det. by a taxonomic specialist` --- the determination was made or confirmed by a taxonomic specialist. <br>
+>-- `Det. by breeder` --- name has been determined by the source (breeder or hybridizer) <br>
+>-- `Type Material` --- the plant represents all or part of the type material on which the name was based, or the plant has been derived therefore by asexual propagation
+
+**Determination Comments**<br>
+Use **Determination `Comments`** to document minor changes or clarifications to the name originally received. This field should also be used to record notes explaining changes to the determination of the material, particularly when the current identification differs from the name or identification provided at the time of accessioning. 
