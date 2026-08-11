@@ -47,6 +47,9 @@ callouts:
   note:
     title: Note
     color: green
+  warning:
+    title: Warning
+    color: red
 
 # Exclude from processing.
 # The following items will not be processed, by default.
