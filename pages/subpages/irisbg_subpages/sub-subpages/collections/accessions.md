@@ -46,3 +46,19 @@ Accessioning for Index Seminum data and field-collected specimens by garden staf
 New accessions are created by the **Accessions Technician** or the **Research Technician GIS**. Curators and horticulturists (TQ) do not have editing privileges to create or modify accession records after they have been created. Requests for changes to information under the `Details` tab or any of its associated tables must be submitted by email to the **Accessions Technician** or the **Research Technician GIS**.
 
 When `accession` and `item` information is collected and can be provided in a spreadsheet, new records may be created through the [Data Import](/UBCBG-Plant-Records-Manual/data-import/) module in IrisBG. This is the preferred method for creating multiple accessions or items **in bulk**. The module is particularly useful when members of the Curatorial and Horticulture Team return from field expeditions with larger numbers of wild-collected specimens, *typically ten or more*. Importing records from a standardized spreadsheet allows accessions to be processed efficiently while reducing manual data entry and the potential for errors. Templates for different data imports can be found under `W:\BGCHHort\IrisBG\Database\templates\IrisBG_import_templates`.
+
+### Basics for adding a new accession: 
+Navigate to the `Collections` group located in the IrisBG Navigation bar. Click on the `Accessions` module.<br>
+<img src="../figures/collections_group.png" alt="the collections group in IrisBG Navigation" width="150"> <img src="../figures/accessions_module.png" alt="the accessions module window in irisbg" width="550">
+
+>1. Click `Clear/New` if data is present in the screen. <br>
+>1. In the `Details` tab, enter the date in `Acc. year` field. <br>
+>1. In the `Taxon name` field begin to type the name of your [taxon](/UBCBG-Plant-Records-Manual/taxonomy/). A list of all the currently held `taxa` is displayed. Scroll down to find your taxon. If your taxon is not in the database, you will have to [create a new taxon record](/UBCBG-Plant-Records-Manual/taxonomy/) before you can continue. Move to `Determination` and type the `received as` ~ taxon name. <br>
+>1. Scroll down in the `Details` tab to the `Origin` and fill the contact information. This is the source providing the germplasm. Then, find the `Provenance` field. Select from the drop-down. <br>
+>1. Fill out the required fields under `Material`. These are: 
+>    1. `Type`,
+>    1. `No. spec`, 
+>    1. `Rec. date`, 
+>    1. `person`, 
+>    1. and `purpose` (garden area for which the material is planned for). <br>
+>1. Click **save**. 
