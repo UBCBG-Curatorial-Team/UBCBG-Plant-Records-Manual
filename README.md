@@ -25,8 +25,8 @@ A final option (thank you Kevin for informing me about this) is the UBC GitHub e
 >   -- to edit in a text editor, right click the file and select *Open with text edit*
 >1) Run mac_run.command by double-clicking -- *(can be run from any directory on your machine. I like to keep mine on my desktop)*<br>
 >   -- If mac_run.command is not an executable file, run `chmod 755 [path]/mac_run.command`, replacing `[path]` with the path to the directory that mac_run.command is located in<br>
-> <br>
 >1) To halt the site, close the running terminal window or press `control + c` ***(NOT `cmd + c`)*** while on the running terminal window. <br>
+> <br>
 > -- *Note: You may need to refresh the page after a few moments for the page to load properly
 
 ---
