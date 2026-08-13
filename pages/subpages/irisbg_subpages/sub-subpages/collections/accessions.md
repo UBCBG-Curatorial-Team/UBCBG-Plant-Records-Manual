@@ -106,7 +106,7 @@ If the required taxon is not found in the IrisBG taxa list, follow the [taxon ad
 When an `accession` is received under a synonym or another name that is not the currently accepted name, record the name provided with the material in the `Received as` taxon field. This ensures that the original name is preserved in the `Determination` and `Determination History` of the `accession`, while the `accession` remains linked to the currently accepted taxon. The accepted name is used on plant labels, in Garden Explorer, and in reports. <br>
 <br>
 **Determination type** <br>
-When the identification of an accession is uncertain, record the appropriate qualifier in `Det. type`. Use **cf.** (confer) or **aff.** (affinis) or (?) as appropriate to indicate uncertainty in the determination. <br>
+When the identification of an accession is uncertain, record the appropriate qualifier in `Det. type`. Use **cf.** (*confer*) or **aff.** (*affinis*) or (?) as appropriate to indicate uncertainty in the determination. <br>
 <br>
 **Determination level** <br>
 The `Det. level` field indicates the basis or authority for the identification. Use the following options as appropriate: <br>
