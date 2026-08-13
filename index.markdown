@@ -3,7 +3,6 @@ layout: home
 parent: hidden
 ---
 # UBC Botanical Garden Plant Records Management Manual 
-<img src="../figures/construction.gif" alt="this site is under construction" width="800">
 <center><img src="./figures/campbell.jpeg" alt="the campbell bldg" width="800"></center>
 
 Plant records are as essential to a botanical garden as the living collections themselves. They document the identity, origin, history, and management of each accession, preserving the scientific, conservation, horticultural, and educational value of the collection over time. Plant documentation comprises the policies, databases, maps, images, and other associated records that support the management of living collections (Michener, 2011). Accurate, complete, and consistently maintained records enable effective collection management, support research and conservation initiatives, and facilitate the sharing of reliable information with staff, researchers, partner institutions, and the public (Highland, 2014). 
