@@ -120,4 +120,4 @@ The `Det. level` field indicates the basis or authority for the identification. 
 >-- `Type Material` --- the plant represents all or part of the type material on which the name was based, or the plant has been derived therefore by asexual propagation
 
 **Determination Comments**<br>
-Use **Determination `Comments`** to document minor changes or clarifications to the name originally received. This field should also be used to record notes explaining changes to the determination of the material, particularly when the current identification differs from the name or identification provided at the time of accessioning. 
+Use **Determination `Comments`** to document minor changes or clarifications to the name originally received. This field should also be used to record notes explaining changes to the determination of the material, particularly when the current identification differs from the name or identification provided at the time of accession creation. 
