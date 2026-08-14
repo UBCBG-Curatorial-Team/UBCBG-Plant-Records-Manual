@@ -13,7 +13,7 @@ To do so, follow [this link](https://ubcbg-curatorial-team.github.io/UBCBG-Plant
 
 If that is not a viable option (perhaps if, in the future, GitHub stops hosting sites like this), cloning this repository onto your machine and following the instructions below will allow you to host the site locally.
 
-## Running the site locally
+## Running the site locally (I would like to make both of these methods easier)
 ### Mac users:
 > **Requirements:**<br>
 >-- [Ruby](https://www.ruby-lang.org/en/downloads/) version 2.7.0 or higher (ideally [chruby](https://github.com/postmodern/chruby))<br>
