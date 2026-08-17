@@ -41,7 +41,7 @@ In the case of the IrisBG section of the manual, there are sub subpages. These a
 **The frontmatter** is at the very top of the markdown file, found between the two sets of `---`. I lists the page properties in the format `property: option`. In the example, the layout is `page` (`layout: page`) which is what we nearly (if not entirely) always use. Other required information is `Title`, and `permalink` (the URL address), both of which should be names in a way that makes sense for anyone else who views the source code *(the shorter the better, within reason)*. 
 
 **To make a page a subpage**, set the `parent` field to **exactly** match the `Title` field of an existing page. Any page can be a parent page, but it must be visible in navigation for its subpages to be visible in navigation. 
->*if you would like to hide a page from the navigation bar (it will still be searchable), use `parent: hidden`.
+>*if you would like to hide a page from the navigation bar (it will still be searchable), use `parent: hidden`.*
 
 **To properly order pages** in the navigation bar, the `nav_order` must be specified in the frontmatter. This will order the pages numerically by `nav_order`, and pages with the same `nav_order` will be grouped together in a random order within their grouping.
 
@@ -49,6 +49,10 @@ In the case of the IrisBG section of the manual, there are sub subpages. These a
 
 ### Adding Assets and Figures
 Any images or other assets should be added to either the `figures` or `assets` folders, respectively. This is purely for the sake of organization and keeping the root directory tidy, but it also makes specifying the paths to these files much easier as only the file name will change as opposed to the whole path. This is very nice when adding images as the path is *always* `../figures/[file name]`.
+
+If you would like to edit an image, replacing the image file with an *identically* named, edited image file is all you need to do (make sure the updated image is put in the same folder as the original). 
+
+---
 
 ## List of resources
 >-- [Our GitHub Repository](https://github.com/UBCBG-Curatorial-Team/UBCBG-Plant-Records-Manual) --- changes to the `main` branch show up on the live site<br>
@@ -60,3 +64,25 @@ Any images or other assets should be added to either the `figures` or `assets` f
 >-- [UBC Library Research Commons](https://ubc-library-rc.github.io/intro-jekyll/) --- less in-depth guide but easier to digest when starting out<br>
 >-- [Official GitHub Pages Documentation](https://docs.github.com/en/pages)<br>
 >-- [GitHub Status](https://www.githubstatus.com/) --- allows for checking is GitHub services (like Pages) are experiencing outages
+
+---
+
+### A General Style Guide
+
+Each page starts with a title (a line starting with `#` that matches the page name). Headers for subsections use `###` at the start of the line. Anything below a header should be regular text, but bold text (text surrounded by two sets of two `*`--like`**text**`) can be used for emphasis or to start a paragraph as a sort of "header."
+
+**Italics** can be used well for emphasis *within* a paragraph, or as a note about an associated paragraph (see [here](/UBCBG-Plant-Records-Manual/github-pages/#:~:text=if%20you%20would%20like%20to%20hide%20a%20page%20from%20the%20navigation%20bar)). The formatting used for that note is `>*write your text here*`.
+
+**For bulleted lists**, this theme looks best (in my opinion) when using the format `>-- text`. This creates an en-dash-bulleted list that is also slightly indented with a vertical line. Each line (except for the last) must be followed by `<br>` (break) to make sure that the next item starts on a new line.
+
+**Callouts** are a feature of the Just the Docs theme. These allow for the highest level of emphasis that I have been using in the creation of this site. Configuration of *new* callout types is done in the `_config.yml` file (see [Just the Docs documentation](https://just-the-docs.com/docs/ui-components/callouts/)).
+
+{: .note}
+To make a callout like this, simply type `{: .note }` into one line (make sure the line above is empty), and then on the line below, type the text that you would like to display. Make sure there is an empty line below the text. This text is enclosed in a green box, but a warning callout (`{: .warning }`) would produce a red box. Feel free to configure more callout types!
+
+---
+
+**Linking to specific text on a given page** can be done by only slightly tweaking the address within the markdown link. A regular markdown link follows the format `[display text](address)` (e.g., `[Markdown Guide](https://www.markdownguide.org/)`). To refer to specific text on the linked page, add `#:~:text=` to the end of the link to the page, followed by the text you would like to link to. An example of this is `[example](/UBCBG-Plant-Records-Manual/github-pages/#:~:text=if%20you%20would)`. Click on this [example](/UBCBG-Plant-Records-Manual/github-pages/#:~:text=if%20you%20would) link to see it in action!
+
+{: .note }
+You may notice the `%20` present in the above example. This is the URL escape code for a space, since a space would interrupt the URL. Other characters and symbols, such as `/`, `&`, etc. all have [URL escape codes](https://docs.microfocus.com/OMi/10.62/Content/OMi/ExtGuide/ExtApps/URL_encoding.htm) that must be used instead of the symbol itself in a URL to function properly.
