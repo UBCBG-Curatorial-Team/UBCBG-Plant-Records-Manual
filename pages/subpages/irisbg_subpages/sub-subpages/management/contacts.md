@@ -144,7 +144,7 @@ The contact code and the name field should overlap. That is, the contact code sh
 
 There are many fields in IrisBG that can be populated during or after contact creation. Some do not apply to certain contact types. Information provided by contacts, particularly individuals, is highly variable. Making an effort to include as much information as possible, in the respective fields, is strongly encouraged.  
 
-### Collection Notice - To be sent via email
+### Data Collection Notice - To be sent via email
 
 Because we collect a fair amount of personal information about our donors, it is important to keep them informed. Below is an email template that can be filled (replace the [Title of Responsible Position] portion) and sent to donors:
 
