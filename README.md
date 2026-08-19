@@ -54,4 +54,4 @@ If that is not a viable option (perhaps if, in the future, GitHub stops hosting 
 > -- *Note: You may need to refresh the page after a few moments for the page to load properly
 
 # Things to fix about launchers
-It may be possible to run them completely offline. I would need to make the initial setup more complicated tho. Perhaps if  I can script a majority of the setup that could help? Basically, I would make the bundle install part of the initial setup but not the launch and hopefull that would work?
+It may be possible to run them completely offline. I would need to make the initial setup more complicated though. Perhaps if I can script a majority of the setup that could help? Basically, I would make the bundle install part of the initial setup but **not** the launch and hopefully that would work? Ideally, I could just make an installer program that runs everything but because a lot of it is done through separates installers like RubyInstaller, it is not so straighforward.

@@ -106,7 +106,7 @@ If the required taxon is not found in the IrisBG taxa list, follow the [taxon ad
 When an `accession` is received under a synonym or another name that is not the currently accepted name, record the name provided with the material in the `Received as` taxon field. This ensures that the original name is preserved in the `Determination` and `Determination History` of the `accession`, while the `accession` remains linked to the currently accepted taxon. The accepted name is used on plant labels, in Garden Explorer, and in reports. <br>
 <br>
 **Determination type** <br>
-When the identification of an accession is uncertain, record the appropriate qualifier in `Det. type`. Use **cf.** (confer) or **aff.** (affinis) or (?) as appropriate to indicate uncertainty in the determination. <br>
+When the identification of an accession is uncertain, record the appropriate qualifier in `Det. type`. Use **cf.** (*confer*) or **aff.** (*affinis*) or (?) as appropriate to indicate uncertainty in the determination. <br>
 <br>
 **Determination level** <br>
 The `Det. level` field indicates the basis or authority for the identification. Use the following options as appropriate: <br>
@@ -117,7 +117,9 @@ The `Det. level` field indicates the basis or authority for the identification. 
 >-- `Det. by a taxonomist` --- the determination was made by a taxonomist. <br>
 >-- `Det. by a taxonomic specialist` --- the determination was made or confirmed by a taxonomic specialist. <br>
 >-- `Det. by breeder` --- name has been determined by the source (breeder or hybridizer) <br>
->-- `Type Material` --- the plant represents all or part of the type material on which the name was based, or the plant has been derived therefore by asexual propagation
+>-- `Type Material` --- the plant represents all or part of the type material on which the name was based, or the plant has been derived therefore by asexual propagation <br>
+
+Additional information can be found [here](/UBCBG-Plant-Records-Manual/irisbg-code-list-and-definitions/#:~:text=Determination%20Level).
 
 **Determination Comments**<br>
-Use **Determination `Comments`** to document minor changes or clarifications to the name originally received. This field should also be used to record notes explaining changes to the determination of the material, particularly when the current identification differs from the name or identification provided at the time of accessioning. 
+Use **Determination `Comments`** to document minor changes or clarifications to the name originally received. This field should also be used to record notes explaining changes to the determination of the material, particularly when the current identification differs from the name or identification provided at the time of accession creation. 
