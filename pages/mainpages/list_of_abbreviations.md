@@ -2,7 +2,7 @@
 layout: page
 title: List of Abbreviations
 permalink: /list-of-abbreviations/]
-nav_order: 2
+nav_order: 1
 ---
 # List of Abbreviations 
 
