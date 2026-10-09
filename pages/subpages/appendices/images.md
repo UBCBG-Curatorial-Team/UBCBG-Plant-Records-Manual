@@ -39,6 +39,15 @@ Image name format: `AccYear-AccNo_ItemNo_imgNo` (e.g. 2011-0116_001_001)
 >`AccYear` and `AccNo` are each 4 digits, `ItemNo` and `imgNo` are each 3-digits; `imgNo` is a sequence number that is incremented for each photo of the item.
 >
 >If item number is unknown or photos of received material (e.g. seeds, bulbs, cuttings): `ItemNo` = 000; e.g. 2011-0116_000_001 
+>
+>{: .warning-title}
+> > Specific Cases 
+> >
+> > If the photo is of a tag, the `imgNo` should be 000
+> > 
+> > For any photos of herbarium items, the `imgNo` should start at 200 and count up (e.g. 200, 201, 202, ...)
+> >
+> > For any pest-management-related photos, the `imgNo` should start at 300 and count up (e.g. 300, 301, 302, ...)
 
 ### Image Upload and Ranking
 
