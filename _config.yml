@@ -50,6 +50,9 @@ callouts:
   warning:
     title: Warning
     color: red
+  small_note:
+    title: please configure a note title by using the format small_note-title, followed by the title on the next line
+    color: blue
 
 # Exclude from processing.
 # The following items will not be processed, by default.
