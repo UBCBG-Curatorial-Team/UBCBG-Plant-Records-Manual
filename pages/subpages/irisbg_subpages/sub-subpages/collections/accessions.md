@@ -126,6 +126,8 @@ The `Events` tab records events and activities in which an accession has been us
 <img src="../figures/events_example.png" alt="example of accession with associated events" width="800">
 > *An example of an accession with events associated with it.*<br>
 
+---
+
 ### Accessions Record Tables
 **Details tab**
 <img align="right" src="../figures/accessions_details_table.png" alt="the details tab of an accession" width="400">
