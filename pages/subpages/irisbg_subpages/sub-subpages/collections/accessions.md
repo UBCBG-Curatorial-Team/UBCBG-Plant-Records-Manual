@@ -28,6 +28,8 @@ New accessions are created by the **Accessions Technician** or the **Research Te
 
 When `accession` and `item` information is collected and can be provided in a spreadsheet, new records may be created through the [Data Import](/UBCBG-Plant-Records-Manual/data-import/) module in IrisBG. This is the preferred method for creating multiple accessions or items **in bulk**. The module is particularly useful when members of the Curatorial and Horticulture Team return from field expeditions with larger numbers of wild-collected specimens, *typically ten or more*. Importing records from a standardized spreadsheet allows accessions to be processed efficiently while reducing manual data entry and the potential for errors. Templates for different data imports can be found under `W:\BGCHHort\IrisBG\Database\templates\IrisBG_import_templates`
 
+---
+
 ### Basics for adding a new accession: 
 Navigate to the `Collections` group located in the IrisBG Navigation bar. Click on the `Accessions` module.<br>
 <img src="../figures/collections_group.png" alt="the collections group in IrisBG Navigation" width="150"> <img src="../figures/accessions_module.png" alt="the accessions module window in irisbg" width="550">
@@ -43,6 +45,8 @@ Navigate to the `Collections` group located in the IrisBG Navigation bar. Click 
 >    1. `person`, 
 >    1. and `purpose` (garden area for which the material is planned for). <br>
 >1. Click **save**. 
+
+---
 
 ### Process to request an accession: 
 As of November 2025, the Plant Records and Research Team has implemented a shared document to collect multiple low-volume accession requests to ensure all essential information needed to generate an accession is fulfilled. This requires access to the UBC Botanical Garden Plant Records Microsoft Teams channel and involves three main steps described here: 
@@ -83,6 +87,8 @@ As of November 2025, the Plant Records and Research Team has implemented a share
 
 {: .note }
 Accessions for Index Seminum data and wild-collected specimens from field expeditions by members of the Curatorial and Horticultural staff or garden-affiliated researchers are separate from this process.
+
+---
 
 ### Accession Record Tabs
 <img src="../figures/accessions_tabs.png" alt="the tabs found in the accessions module" width="500"> <br>
