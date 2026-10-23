@@ -18,36 +18,9 @@ An `accession`: is plant material (living or preserved) from a single source rec
 > {: .note-title}
 > > Limited Exceptions Apply
 > >
-> > Please consult the Accessions Technician or Research Technician GIS before proceeding to the next section. See [Reactivating Accession Number](/UBCBG-Plant-Records-Manual/reactivating-accession-number) for processing Seasonal Plantings, Food Garden plantings, and occasional requests to merge two or more accession numbers by Curators and Horticulturists.
+> > Reusing accession numbers is permitted only in limited circumstances – always consult Accessions Technician or Research Technician GIS before proceeding. See [Reactivating Accession Number](/UBCBG-Plant-Records-Manual/reactivating-accession-number) for processing Seasonal Plantings, Food Garden plantings, and the merging of two or more accession numbers for inventory purposes, as requested by Curators and Horticulturists (TQ). 
 
 The records team adds the `accession year` (when known), but not the other four digits when creating a new accession. If you do not enter an `accession number`, the system will automatically generate the next available number when you save the new record. 
-
-### Process to request an accession: 
-The Plant Records and Research Team has a specific process to collect multiple, small-volume accession requests in one place to help ensure all essential information needed to generate an accession is fulfilled. This requires that the requestor has access to the UBC Botanical Garden Plant Records Microsoft Teams channel and involves three main steps described here:  
-1. Gather and collect the information needed to make your accession requests. <br>
-2. Access the `Teams>General>Accessions&LabelsAccessions` folder and the only spreadsheet in the folder to enter the information for your accession. The steps are also documented in the Word document 'accession-request-form-steps' found there.<br>  
-   
-{: .small_note-title}
-   >Of note, these are the fields mandatory to complete (in green) under the Details tab: <br>
-   >
-   >-- `Received as`: This name will be reviewed by the Plants Record Team to ensure it is the currently accepted nomenclature <br>
-   >-- `Contact (Source) ` <br>
-   >-- `Provenance ` <br>
-   >-- `Material Type`  <br>
-   >-- `No. Specimens`. If `Material Type` is **“seed”**, please leave empty; please do not count the seeds.  <br>
-   >-- `Purpose` <br>
-   >-- `Received Date` (month/day/year)  <br>
-   >-- `Received Person`  <br>
-   >-- `Comments` (for upload to Iris): Uploaded to the Comments section of the Accession record  <br>
-   >-- `Comments` (internal for Plant Records team)  <br>
-   >-- Any other information for fields not listed in the accessions form, e.g. Attributes- Variant: weeping form,       Accessiontype: NAM  <br>
-   >-- **Optional fields**: Any field(s) under the `Locality` table, `Collection` table, and the `Items` tab (red) 
-   
-3. Send us an email addressed to Adriana ([adriana.lopez@ubc.ca](mailto:adriana.lopez@ubc.ca)) and Mandy ([amanda.leslie@ubc.ca](mailto:amanda.leslie@ubc.ca)), with the subject line (MM.DD.YYYY) and the word **'accession'** to help us keep track of the request (e.g. Accession_LL_09.02.2025). The email body should contain a very brief description of the accession plants (e.g. apples for the Food Garden, miscellaneous plants from early 2020), the number of accessions requested, and any priority groupings for time-sensitive requests, if applicable. 
-
-
-{: .note }
-Accessioning for Index Seminum data and field-collected specimens by garden staff - or garden-affiliated researchers - are different from this process. Our current protocol is described below. 
 
 ---
 
@@ -71,6 +44,46 @@ Navigate to the `Collections` group located in the IrisBG Navigation bar. Click 
 >    1. and `purpose` (garden area for which the material is planned for). <br>
 >1. Click **save**. 
 
+### Process to request an accession: 
+As of November 2025, the Plant Records and Research Team has implemented a shared document to collect multiple low-volume accession requests to ensure all essential information needed to generate an accession is fulfilled. This requires access to the UBC Botanical Garden Plant Records Microsoft Teams channel and involves three main steps described here: 
+1. Gather and collect the information needed to make your accession requests. <br>
+2. Access the `Teams>General>Accessions&LabelsAccessions` folder and the only [spreadsheet](https://ubcca.sharepoint.com/:x:/r/teams/ubcBGCH-gr-UBCBotanicalGardenCuratorialTeam/Shared%20Documents/General/Accessions%26LabelsOct-Dec2025/Accessions/2025-2026_accession_request_form.xlsx?d=wca199d01f1f7411f972fddf042587f52&csf=1&web=1&e=Op4KO7) in the folder to enter the information for your accession. These steps are also documented in the Word document ‘accession-request-form-steps.docx’. <br>  
+
+      > {: .small_note-title}
+      >   >Under the Details tab (in green), these are the fields **mandatory** to complete:  <br>
+      >   >
+      >   >-- `Received as` <br>
+      >   >{: .fs-4 }
+      >   >   > This name will be recorded as the first determination history of the accession, then further reviewed upon entry to the IrisBG taxa list to ensure it is an accepted name.
+      >   >{: .fs-2 }
+      >   >-- `Contact (Source) ` <br>
+      >   >-- `Provenance ` <br>
+      >   >-- `Material Type`  <br>
+      >   >-- `No. Specimens`. 
+      >   >{: .fs-4 }
+      >   >   > If `Material Type` is **“seed”**, please leave empty. Avoid opening seed packets to prevent loss of materials. However, Curators and Horticulturists (TQ) can exercise discretion based on their experience and assessment of the material.
+      >   >{: .fs-2 }
+      >   >-- `Purpose` <br>
+      >   >-- `Received Person`  <br>
+      >   >-- `Received Date` (entered as month/day/year)  <br>
+      >   >-- `Comments` (for upload to Iris): Uploaded to the Comments section of the Accession record  <br>
+      >   >{: .fs-4}
+      >   >   > Uploaded to the general Comments section.
+      >   >{: .fs-2}
+      >   >-- `Comments` (internal for Plant Records team)  <br>
+      >   >{: .fs-4}
+      >   >   > Any other information for fields not listed in the accessions form, e.g. `Attributes - Variant`: weeping form, `Accession type`: NAM 
+      >   >{: .fs-2}
+      >   >-- Any other information for fields not listed in the accessions form, e.g. Attributes- Variant: weeping form,       Accessiontype: NAM  <br>
+      >   >{: .fs-4}
+      >   >-- **Optional fields**: Any field(s) under the `Locality` table, `Collection` table, and the `Items` tab (red) 
+      >   >{: .fs-3}
+   
+3. Send an email addressed to Adriana ([adriana.lopez@ubc.ca](mailto:adriana.lopez@ubc.ca)) and Mandy ([amanda.leslie@ubc.ca](mailto:amanda.leslie@ubc.ca)), with the date (MM.DD.YYYY) and keyword ‘accession’ in the email subject line to help the Plant Records Team keep track of the request (e.g. Accession_LL_09.02.2025). The email body should contain a very brief description of the plants to be accessioned, if applicable. 
+
+{: .note }
+Accessions for Index Seminum data and wild-collected specimens from field expeditions by members of the Curatorial and Horticultural staff or garden-affiliated researchers are separate from this process.
+
 ### Accession Record Tabs
 <img src="../figures/accessions_tabs.png" alt="the tabs found in the accessions module" width="500"> <br>
 The information stored for an accession is organized into 6 tabs:
@@ -81,15 +94,26 @@ The `Details` tab contains the basic working information for an `accession`. Thi
 **Items**<br>
 The `Items` tab contains information about the individual plants or other material that make up an `accession`. An `accession` may consist of one or multiple `items`, and item-level information is used to track *individual* plants within the collection. 
 
+**Parentage**<br>
+The `Parentage` tab records information about the known parents of a plant, including Parent Taxon 1 and Parent Taxon 2. This information is particularly useful for documenting known crosses and tracking hybridization. It can also be used when accessioning seedlings for which at least one parent, such as the maternal parent, is known. Examples of accessions containing parentage information include:
+
+> -- `2025-0314.01` *Cassiope tetragona* subsp. *saximontana* x *C. tetragona* subsp. *tetragona*<br>
+> -- `1981-0217.01` *Aria edulis* x *Aronia arbutifolia* 
+
 **Images**<br>
 The `Images` tab stores images associated with an accession. These may include photographs of plants or diagnostic traits, herbarium specimens or sheets, labels, and other images that provide supporting documentation for the accession.
 <img src="../figures/images_example.png" alt="example of accession with images" width="800">
 > *An example of an accession with associated images.*<br>
 
 **References** <br>
-The `References` tab records sources and supporting documentation associated with an accession. These may include collection permits, taxonomic information, library resources, web links, and external records or relationships.
+The `References` tab records sources and supporting documentation associated with an accession. These may include collection permits, taxonomic information, library resources, web links, and external records or relationships. Examples of accessions containing reference information include:
+
+> -- `2016-0114`	*Rubus spectabilis* <br>
+> -- `2000-0389`	*Magnolia sapaensis* <br>
+> -- `1978-0762`	*Marah oregana* <br>
+<br>
 <img src="../figures/references_example.png" alt="example of accession with references" width="800">
-> *An example of an accession with references associated with it.*<br>
+> *The associated reference of `1978-0762` Marah oregana.*<br>
 
 **Events** <br>
 The `Events` tab records events and activities in which an accession has been used or involved. Events may include collection-related tasks, tours, educational activities, or other Garden activities associated with the accession.
