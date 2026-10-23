@@ -8,7 +8,7 @@ nav_order: 2
 
 ### Basic Information
 
-UBC Botanical Garden plant accession data is managed using IrisBG database software. IrisBG is a collections management system used by more than 180 botanical gardens, arboreta, herbaria, and private estates around the world. Tutorials and user information are available online at [irisbg.com](https://www.irisbg.com/).  
+UBC Botanical Garden plant accession data is managed using IrisBG database software. IrisBG is a collections management system used by more than 250 botanical gardens, arboreta, herbaria, and private estates around the world. Tutorials and user information are available online at [irisbg.com](https://www.irisbg.com/).  
 
 There are two main ways to learn about using IrisBG:
 >-- [IrisBG video tutorial and interactive training courses](https://www.irisbg.com/tutorial-p.aspx). (Official tutorials) \
