@@ -63,7 +63,7 @@ As of November 2025, the Plant Records and Research Team has implemented a share
       >   >-- `Contact (Source) ` <br>
       >   >-- `Provenance ` <br>
       >   >-- `Material Type`  <br>
-      >   >-- `No. Specimens`. 
+      >   >-- `No. Specimens` 
       >   >{: .fs-4 }
       >   >   > If `Material Type` is **“seed”**, please leave empty. Avoid opening seed packets to prevent loss of materials. However, Curators and Horticulturists (TQ) can exercise discretion based on their experience and assessment of the material.
       >   >{: .fs-2 }
