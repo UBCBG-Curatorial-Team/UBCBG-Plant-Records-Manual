@@ -61,6 +61,3 @@ Taxa and nomenclature screen. This example shows the information in the **Names*
 
 **Verifying taxon name**
 Nomenclature verification ensures that all names recorded in IrisBG have been scrutinized using the same process and standards. Often, plant names received on plant material, seed or invoices are not correct or complete and must be verified before accessioning new plant material or including in the Garden’s publications or materials. Below we describe the process:
-
-{: .note }
-hello
