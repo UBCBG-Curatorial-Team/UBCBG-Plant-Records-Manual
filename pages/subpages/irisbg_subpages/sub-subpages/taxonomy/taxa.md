@@ -5,7 +5,8 @@ permalink: /taxa/
 parent: Taxonomy
 nav_order: 1
 ---
-# Manage Taxa and Nomenclature
+# Taxa
+## Manage Taxa and Nomenclature
 
 Taxonomy information is created and maintained by the Accessions Technician or other users with the privilege. Check with the Biodiversity Informatics Manager for user privilege. The Taxa section in IrisBG allows users to manage taxa with their nomenclature, descriptions, images, and references. 
 
@@ -39,4 +40,27 @@ Common tasks conducted under the Taxa module include:
 >-- Add new taxon  <br>
 >-- Web search when adding a new taxon <br>
 >-- Removing an expired taxon (or synonymize a taxon name) <br>
->-- Web search (e.g. IPNI) 
+>-- Web search (e.g. IPNI; as of 2023, IrisBG now automatically populates authorship and verification status from World Flora Online)
+
+
+## Placeholder
+## for
+## flowchart
+## ?
+## (there is one on the document, it is not complete)
+<br>
+<br>
+
+<img src="../figures/Taxa_and_nomenclature_screen.png" alt="the IrisBG taxa and nomenclature screen" width="700"/><br>
+
+Taxa and nomenclature screen. This example shows the information in the **Names** tab associated to the taxon *Magnolia insignis*. In the left-hand side of the screen, the accepted scientific name (green circle) is associated with three synonyms, and it was last checked on October 21, 2016 by Eric La Fountaine using [The Plant List](http://www.theplantlist.org) (external provider, website offline?). On the right-hand side of the screen name status, infra names, species’ authorship, hybrid information, and Life Science Identifiers are located.
+
+---
+
+## Taxon Names
+
+**Verifying taxon name**
+Nomenclature verification ensures that all names recorded in IrisBG have been scrutinized using the same process and standards. Often, plant names received on plant material, seed or invoices are not correct or complete and must be verified before accessioning new plant material or including in the Garden’s publications or materials. Below we describe the process:
+
+{: .note }
+hello
