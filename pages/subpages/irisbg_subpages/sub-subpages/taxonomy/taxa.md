@@ -5,7 +5,9 @@ permalink: /taxa/
 parent: Taxonomy
 nav_order: 1
 ---
-# Taxa
+# Manage Taxa and Nomenclature
+
+Taxonomy information is created and maintained by the Accessions Technician or other users with the privilege. Check with the Biodiversity Informatics Manager for user privilege. The Taxa section in IrisBG allows users to manage taxa with their nomenclature, descriptions, images, and references. 
 
 There are 5 tabs associated with each taxon you search in the Taxa section of IrisBG: 
 <img align="right" src="../figures/Taxa.png" alt="the taxa tab of IrisBG" width="300"/> 
@@ -17,16 +19,16 @@ There are 5 tabs associated with each taxon you search in the Taxa section of Ir
 
 ---
 
-The `Names` tab can be used to adjust nomenclature and taxonomic information, as well as the name status of a taxon. The `Details` tab is used to input or change other information about a taxon, such as its habitat and distribution. Taxa can be given a Restriction to limit Usage and/or Publishing. 
+The nomenclature and taxonomy information, as well as the name status of a taxon can be set under the `Names` tab. The `Details` tab is used for other information about a taxon, such as its habitat and distribution. Taxa can be given a Restriction to limit Usage and/or Publishing.
 
 {: .note }
-Taxon names that cannot be verified by a reference listed in the IrisBG [Library](/UBCBG-Plant-Records-Manual/library/) should be marked as provisional. Such taxa will not be included in data exports to external recipients. Additional taxonomic resources can be found [here](/UBCBG-Plant-Records-Manual/taxonomic-resources).
+Taxon names that cannot be verified by a reference listed in the IrisBG [Library](/UBCBG-Plant-Records-Manual/library/) should be marked as provisional. Various ornamental and food plant cultivars often fall into this category. Such taxa will not be included in data exports to external recipients. Additional taxonomic resources can be found [here](/UBCBG-Plant-Records-Manual/taxonomic-resources). 
 
 The list for Themes (found at the bottom of `Details`) can be used to enter facts about a taxon, e.g. Medicine plant, Edible fruit. Theme types must be defined in the [Code lists](/UBCBG-Plant-Records-Manual/code-lists/) screen.
 
 ---
 
-The `Parentage` tab records information about the parents or offspring of a taxon. The list of progenies shows taxa that have the current taxon as one of the parents. This list is read only. 
+The `Parentage` tab records information about the parents or offspring of a taxon. The list of progenies shows taxa that have the current taxon as one of the parents. *This list is read only.*
 
 The `Images` tab stores photos and their associated metadata. More details on how to add images to taxa or accessions can be found on the [Images](/UBCBG-Plant-Records-Manual/images/) page.
 
