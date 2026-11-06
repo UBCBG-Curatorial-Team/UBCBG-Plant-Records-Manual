@@ -13,14 +13,18 @@ Original-sized images are stored in team shared drive: `BGCHHort\IrisBG\Digital_
 
 When documenting a plant accession, it’s recommended to take photos of the habit, trunk/branch/bark, leaf arrangements, both sides of leaves, inflorescence, flowers, fruits/cones, other key identifying features, habitat or location of the plant whenever possible. 
 
+---
+
 ### Image Processing and Metadata
 
-Before uploading the images to the database, use image editor software (e.g. Adobe Photoshop) to edit image (such as adjusting colour and brightness, and cropping) if necessary. Image metadata can be updated by Adobe Lightroom, Adobe Bridge and other image softwares.
+Before uploading the images to the database, you may opt to use image editing software (e.g. Adobe Photoshop) to edit image (such as adjusting colour and brightness, and cropping) if necessary. 
 
+Image metadata can be updated by Adobe Lightroom, Adobe Bridge and other image softwares.
+
+**Add/Update Copyright/Copyright Notice** — Recommended<br>
 <img align="right" src="../figures/image_info.png" alt="IrisBG image data" width="200"> The copyright (photographer) will be automatically imported from the image metadata when uploading images into IrisBG. If changes should be made, they can be done so in IrisBG under `Provider` while viewing the image information. Fill in “UBC Botanical Garden” if the photographer is an unknown staff.
-
-### Add/Update Keywords (tags) (optional) 
-
+ 
+**Add/Update Keywords (tags)** — Optional<br>
 Adding keywords in the image metadata helps image sorting and searching. However, IrisBG at time of writing (IrisBG4 version 4.1.0.19071 - 2019-07-11) does not automatically import the keywords/tags embedded in the images. The keywords need to be added in the database (manually or by data import). 
 
 Some examples of keywords/tags: 
@@ -30,9 +34,13 @@ Some examples of keywords/tags:
 > Seed cone; Pollen cone; male_flower; female_flower;  
 > white_flowers; pink_flowers; blue_flowers; brown_flowers; green_flowers; orange_flowers; purple_flowers; red_flowers; yellow_flowers
 
-### File Naming System 
-Folder name: [year of accession]
+---
 
+### File Naming System and Storage
+
+If you are planning to store the original-sized images in the shared drive, such images are stored in the team shared drive: `BGCHHort\IrisBG\Digital_Assets\Images\Plant_accession_img\` by folders of the accession year. It is recommended to store all of the original-sized images in the shared drive folder for easy team accessing.  
+
+**Naming System**<br>
 Image name format: `AccYear-AccNo_ItemNo_imgNo` (e.g. 2011-0116_001_001)
 
 {: .note }
@@ -54,14 +62,14 @@ Image name format: `AccYear-AccNo_ItemNo_imgNo` (e.g. 2011-0116_001_001)
 Images can be linked to an accession, accession item, or a taxon without an accession. When images are linked to an accession/item, such images are automatically link to the accession’s taxon. 
 
 **Image Upload Size**<br>
-To limit unneccessary usage of database storage space, it’s recommended to upload image with resolution `MegaPix_1`. Go to `File - Options` to set the image resolution. The database stores a resized image ~200KB with MegaPix_1 resolution, which is usually sufficient for web browsing. 
+To conserve database size, it’s recommended to upload image with resolution `MegaPix_1`. Go to `File - Options…` to set the image resolution. The database stores a resized image ~200KB with `MegaPix_1` resolution, which is usually sufficient for web browsing.
 <center><img align="top" src="../figures/options_highlighted.png" alt="options highlighted in file tab" width="150"> <img src="../figures/options_page.png" alt="options window irisbg" width="300"></center>
 
 {: .note }
 Once the resolution is set, you must restart IrisBG for the new setting to take effect.
 
 **Image Ranking**<br>
-Image rank is used to control usage and sort order for images. **The recommended rankings are 2-9** (the same rank can apply to multiple images). Rank 1 images are published on the mobile app data, which may increase the mobile app data package size, and therefore not recommended. A more detailed explanation of ranks follows:
+Image rank is used to control usage and sort order for images. **The recommended rankings are 2-9** (same rank can apply to multiple images). Rank 1 images are published on the mobile app data, which may increase the mobile app data package size, and therefore not recommended. 
 >-- 1 = Default/preferred image: this is the cover/first image shown on the Garden Explorer. <br>
 >-- 2-9 = Alternative images (recommended, available on Garden Explorer) <br>
 >-- 10+ = Not to be published on Garden Explorer. *e.g. images of accession labels or other photos for internal use only.*
