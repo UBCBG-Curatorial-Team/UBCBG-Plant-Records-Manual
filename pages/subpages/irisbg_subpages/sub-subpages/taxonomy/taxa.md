@@ -135,3 +135,17 @@ GRIN, Flora of North America and E-Flora BC provide common names. If not found t
 > If the only available common name is the genus itself, **leave the common name section empty**.
 > Common taxa where this is applicable include: *Rhododendron*, *Stachyurus*, *Cotoneaster*, *Clematis*, etc. Similarly, in the case of cultivars, remove the cultivar name from the common name and record only the common name of the species. UBCBG commonly refrains from displaying trade names in the common name section, as is the case with cultivated and food plants.
 
+---
+
+## Notes on adding new Taxon Names and updating names
+
+When adding a new taxon (accepted or synonym), check:
+>-- whether the taxon has a record in IrisBG but mis-spelled or under a spelling variation- [Action] fix the existing record and do not add a new taxon <br>
+>-- if the new taxon record has its synonym(s) entered as accepted names -[Action] add the new taxon and synonymize all the other names as synonyms under the new record. Steps to do this: Add new taxon or accepted taxon if it does not already exist. Then find the taxon that will be a synonym and “expire it” by clicking the [Expire...] button on the top right corner. A window will pop up and ask you if you have accessions and items under that name, and will ask you if you want to link it to another taxon. Add the new added taxon (or the accepted name that was already in the database from the drop list) and click OK. *Any information associated with the old taxon, i.e. Taxon Information, Common names, Occurrence, Themes, Attributes, and etc., will be transferred to the new taxon.* <br>
+>
+><img src="../figures/ExpireTaxon.png" width="300" alt="The expire taxon window, asking the user to select a taxon to transfer the accession to"> <br>
+>*Dialog window showing actions for synonymising or expiring a taxon.* <br>
+><br>
+>-- if adding a new infraspecies taxon (subsp., var., f.)- [Action]: check if the name is filed under a different infraspecies rank in IrisBG already (i.e. subsp. vs. var.) <br>
+>-- update related taxon name records when applicable
+
