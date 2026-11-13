@@ -58,6 +58,80 @@ Taxa and nomenclature screen. This example shows the information in the **Names*
 ---
 
 ## Taxon Names
+### Verifying taxon names
 
-**Verifying taxon name**
-Nomenclature verification ensures that all names recorded in IrisBG have been scrutinized using the same process and standards. Often, plant names received on plant material, seed or invoices are not correct or complete and must be verified before accessioning new plant material or including in the Garden’s publications or materials. Below we describe the process:
+Nomenclature verification ensures that all names recorded in IrisBG have been scrutinized using the same process and standards. Often, plant names received on plant material, seed or invoices are not correct or complete and must be verified before accessioning new plant material or including in the Garden’s publications or materials.
+
+Taxa are verified using all available Web and library resources. Some of the commonly used name sources are:
+
+*Plants of the World, GRIN,* regional floras *(e.g. Flora of North America, Flora of China, Jepson eFlora, Calflora, SANBI South Africa flora, Flora of New Zealand, etc.), E-flora BC, Euro+Med Plantbase, Royal Horticultural Society (RHS) Plant Finder, Kempfer Center of Plant Finder (Missouri Botanical Garden)*, among others. 
+
+**Links to particularly useful sources:** <br>
+>-- [Plants of the World Online](https://powo.science.kew.org/)  <br>
+>-- [Jepson e-Flora](https://ucjeps.berkeley.edu/eflora/) <br>
+>-- [Integrated Taxonomic Information system (ITIS)](https://www.itis.gov/)<br>
+>-- [E-Flora BC](https://ibis.geog.ubc.ca/biodiversity/eflora/) <br>
+>-- [GRIN](http://wgb.cimmyt.org)<br>
+>-- [Trees and Shrubs Online](https://www.treesandshrubsonline.org/)
+
+---
+
+The primary source of name verification is entered in `Checked Ref.`, along with `Checked date` and `Checked by`. Other nomenclature sources are listed in `Name Source` under Information located on the right-hand side of the screen. Please note that `Checked Ref.` and `Name Source` are specifically for the taxon. If the taxon is a cultivar, then the name verification is specifically for the cultivar. However, some of the earlier checking was done this way, so there are old taxon listing for cultivars that have the species author listed (usually listed in the `Name Source`). <ins>Such taxa need to be verified again. </ins>
+
+{: .note} 
+If the last `Checked date` is more than 5 years ago, the taxon needs to be verified again. 
+
+**Examples:**
+>-- Taxon with `Cultivar`, and or `cultivar group`: *Vigna unguiculata* (Sesquipedalis Group) 'Red Noodle'<br>
+>-- `Infra group`: e.g. *Rhododendron virgatum*<br>
+
+*See [Taxonomic groups](/UBCBG-Plant-Records-Manual/taxonomic-groups/) for adding ranks below Genus, e.g. subgenus, section, subsection*
+
+**Best practices:** <br>
+Except cultivars, we recommend the initial taxon verification step to begin at [Kew Garden's Plants of the World Online](https://powo.science.kew.org/) to ascertain the taxon distribution. Once distribution is known, use regional flora or regional reference specific to the distribution to gather habitat and ecology information about the taxon. Use [Trees and Shrubs Online](https://www.treesandshrubsonline.org/) to consult information on **woody** taxa, and [Conifers of the World](https://herbaria.plants.ox.ac.uk/bol/conifers) for evergreen gymnosperms *(also available in print at the Ivy Taylor Campbell Library, Room 213)*.
+
+---
+
+### Verifying authorship
+
+IrisBG has a **Life Science Identifier** (LSID) tool that makes adding a new taxon easy and efficient. This function connects to International Plant Name Index (IPNI) and allows users to record authorship and publication details.  After all the other details of the taxon have been entered, click on the blue ℹ️ icon and verify the authorship and publication details.
+
+<img src="../figures/LSID.png" alt="the LSID window in IrisBG" width="400"/><br>
+*Life Science Identifier (LSID) function linked to the to the International Plant Name Index (IPNI), allowing for species name verification and publication record.*
+
+<img src="../figures/LSID2026.png" alt="the LSID window in IrisBG" width="600"/><br>
+***Current IrisBG interface as of 2026. LSID function is now linked to World Flora Online (WFO), which still uses nomenclature data pulled from IPNI.***
+
+{: .note }
+If a notable reference is found, add reference to [Library](/UBCBG-Plant-Records-Manual/library/) (if new) and add the library item to the [Taxon References](/UBCBG-Plant-Records-Manual/taxon-references). Add `comments`.
+
+When checking taxa, note the authorship is recorded by major authorities. Choices may need to be made if there is disagreement about taxon names or authorship by major nomenclature authorities. Occasionally IPNI will not be in agreement on details presented by E-Floras for example. In such cases, the Curator of Collections will choose which authorship the Garden will use. Explain the choice in comments and record the reference in `Name source`.
+
+In rare cases, a taxon name could be a [homonym](https://en.wikipedia.org/wiki/Homonym_(biology)), a name for a taxon that is identical in spelling to another such name, but belongs to a different taxon. In cases like these, there will be multiple authorships to choose from and curators need to verify which name and authorship is correct.
+
+---
+
+### Adding synonyms
+
+When material arrives with a name that is considered a synonym by UBCBG, if the synonym does not appear in the taxa list it should be added to accession the item and made a synonym of the correct name. <br>
+>-- When Curators have important synonyms that are not yet in the database, notify the Accessions Technician to add the synonyms.
+
+---
+
+### Provisional taxon names
+
+When a name requires its own record (potentially valid for UBCBG), but not listed by nomenclature authorities in our library references, the taxon will be marked as *Provisional* (`Taxon Details` > `Provisional`), and enter `Checked date`, `Checked by`, and `Name source`. 
+
+This can be used for experimental hybrids, unpublished cultivars, *species nova*, *comb. nov.* (new combination), when no source has clear authority (e.g. *Lupinus sellulus* var. *lobbii*), and etc.
+
+---
+
+### Common names
+
+GRIN, Flora of North America and E-Flora BC provide common names. If not found there, RHS, the Kemper Center and Wikipedia are good places to look. More than one name can be recorded and the names can be ranked. Only names ranked “1” will appear on the accession label.
+
+
+{: .warning }
+> If the only available common name is the genus itself, **leave the common name section empty**.
+> Common taxa where this is applicable include: *Rhododendron*, *Stachyurus*, *Cotoneaster*, *Clematis*, etc. Similarly, in the case of cultivars, remove the cultivar name from the common name and record only the common name of the species. UBCBG commonly refrains from displaying trade names in the common name section, as is the case with cultivated and food plants.
+
