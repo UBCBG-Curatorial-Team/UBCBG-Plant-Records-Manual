@@ -67,12 +67,12 @@ Taxa are verified using all available Web and library resources. Some of the com
 *Plants of the World, GRIN,* regional floras *(e.g. Flora of North America, Flora of China, Jepson eFlora, Calflora, SANBI South Africa flora, Flora of New Zealand, etc.), E-flora BC, Euro+Med Plantbase, Royal Horticultural Society (RHS) Plant Finder, Kempfer Center of Plant Finder (Missouri Botanical Garden)*, among others. 
 
 **Links to particularly useful sources:** <br>
->-- Plants of the World Online: https://powo.science.kew.org/  <br>
->-- Jepson e-Flora: https://ucjeps.berkeley.edu/eflora/ <br>
->-- Integrated Taxonomic Information system (ITIS): https://www.itis.gov/ <br>
->-- E-Flora BC: https://ibis.geog.ubc.ca/biodiversity/eflora/ <br>
->-- GRIN: http://wgb.cimmyt.org/gringlobal/taxon/abouttaxonomy.aspx?chapter=scient<br>
->-- Trees and Shrubs Online: https://www.treesandshrubsonline.org/
+>-- [Plants of the World Online](https://powo.science.kew.org/)  <br>
+>-- [Jepson e-Flora](https://ucjeps.berkeley.edu/eflora/) <br>
+>-- [Integrated Taxonomic Information system (ITIS)](https://www.itis.gov/)<br>
+>-- [E-Flora BC](https://ibis.geog.ubc.ca/biodiversity/eflora/) <br>
+>-- [GRIN](http://wgb.cimmyt.org)<br>
+>-- [Trees and Shrubs Online](https://www.treesandshrubsonline.org/)
 
 ---
 
@@ -115,4 +115,23 @@ In rare cases, a taxon name could be a [homonym](https://en.wikipedia.org/wiki/H
 
 When material arrives with a name that is considered a synonym by UBCBG, if the synonym does not appear in the taxa list it should be added to accession the item and made a synonym of the correct name. <br>
 >-- When Curators have important synonyms that are not yet in the database, notify the Accessions Technician to add the synonyms.
+
+---
+
+### Provisional taxon names
+
+When a name requires its own record (potentially valid for UBCBG), but not listed by nomenclature authorities in our library references, the taxon will be marked as *Provisional* (`Taxon Details` > `Provisional`), and enter `Checked date`, `Checked by`, and `Name source`. 
+
+This can be used for experimental hybrids, unpublished cultivars, *species nova*, *comb. nov.* (new combination), when no source has clear authority (e.g. *Lupinus sellulus* var. *lobbii*), and etc.
+
+---
+
+### Common names
+
+GRIN, Flora of North America and E-Flora BC provide common names. If not found there, RHS, the Kemper Center and Wikipedia are good places to look. More than one name can be recorded and the names can be ranked. Only names ranked “1” will appear on the accession label.
+
+
+{: .warning }
+> If the only available common name is the genus itself, **leave the common name section empty**.
+> Common taxa where this is applicable include: *Rhododendron*, *Stachyurus*, *Cotoneaster*, *Clematis*, etc. Similarly, in the case of cultivars, remove the cultivar name from the common name and record only the common name of the species. UBCBG commonly refrains from displaying trade names in the common name section, as is the case with cultivated and food plants.
 
